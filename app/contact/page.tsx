@@ -16,7 +16,7 @@ const EMAILJS_TEMPLATE_ID = 'template_lvg7iva';
 const EMAILJS_PUBLIC_KEY   = 'jDLfzLQ03wKnrMeVx';
 
 const contactInfo = [
-  { icon: MapPin, label: 'Our Location', value: 'Jamnagar, Gujarat, India', detail: 'Naklank Ranuja Mandir, Aliya Bada \u2013 Jambuda Road, Gujarat \u2013 361120' },
+  { icon: MapPin, label: 'Our Location', value: 'Jamnagar, Gujarat, India', detail: 'Naklank Ranuja Mandir, Aliya Bada \u2013 Jambuda Road, Gujarat \u2013 361110' },
   { icon: Mail, label: 'Email Us', value: 'agritradeoverseas07@gmail.com', href: 'mailto:agritradeoverseas07@gmail.com' },
   { icon: Phone, label: 'Call Us', value: '+91 93286 33775', href: 'tel:+919328633775' },
   { icon: Clock, label: 'Working Hours', value: 'Monday \u2013 Saturday: 9:00 AM \u2013 6:00 PM IST', detail: 'Sunday: Closed' },
