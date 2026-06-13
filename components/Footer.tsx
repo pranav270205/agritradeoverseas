@@ -128,7 +128,7 @@ export default function Footer() {
                   <p className="text-sm text-gray-400">
                     Naklank Ranuja Mandir,<br />
                     Aliya Bada – Jambuda Road,<br />
-                    Jamnagar, Gujarat – 361120,<br />
+                    Jamnagar, Gujarat – 361110,<br />
                     India
                   </p>
                 </div>
